@@ -1,5 +1,5 @@
 # Exercício 5: Tráfego HTTP
-
+Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
 
 <img width="1600" height="862" alt="WhatsApp Image 2026-11-08 at 16 39 38" src="https://github.com/user-attachments/assets/31282bb7-1aa8-40cc-a173-c133570b6804" />
 
