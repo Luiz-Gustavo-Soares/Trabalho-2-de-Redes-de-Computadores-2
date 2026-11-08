@@ -1,6 +1,7 @@
 # Exercicio 1
 
 Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
+
 Python version 3.10.12
 
 ## Execucao do server 

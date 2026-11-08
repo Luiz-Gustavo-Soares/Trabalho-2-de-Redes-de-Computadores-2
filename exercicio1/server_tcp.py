@@ -1,3 +1,5 @@
+# Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
+
 import socket
 import threading
 from datetime import datetime
