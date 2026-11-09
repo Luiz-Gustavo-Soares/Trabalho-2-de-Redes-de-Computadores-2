@@ -7,6 +7,18 @@ MAX_UDP_PAYLOAD = 65507
 
 
 def iniciar_servidor(porta):
+    """Inicia um servidor UDP que escuta em uma porta específica.
+
+    O servidor aguarda por mensagens recebidas de clientes, exibe as informações
+    de data/hora, IP, porta e o conteúdo da mensagem no console, e realiza um
+    'echo' (envia de volta a mesma mensagem recebida) para o cliente.
+
+    Args:
+        porta (int): O número da porta em que o servidor irá escutar as conexões UDP.
+
+    Raises:
+        KeyboardInterrupt: Quando o usuário interrompe a execução com Ctrl+C.
+    """
     servidor = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
     try:

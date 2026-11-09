@@ -4,6 +4,21 @@ import socket
 
 
 def iniciar_cliente(host, porta):
+    """Inicia um cliente TCP para comunicação com o servidor.
+
+    Conecta-se a um endereço IP/hostname e porta especificados, permitindo
+    ao usuário enviar mensagens via terminal e receber as respectivas
+    respostas do servidor.
+
+    Args:
+        host (str): O endereço IP ou hostname do servidor ao qual se conectar.
+        porta (int): A porta TCP do servidor.
+
+    Raises:
+        ConnectionRefusedError: Se o servidor estiver indisponível ou recusar a conexão.
+        ConnectionError: Se a conexão com o servidor for perdida durante a execução.
+    """
+
     cliente = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     try:

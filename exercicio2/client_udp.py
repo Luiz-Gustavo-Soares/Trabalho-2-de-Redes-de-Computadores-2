@@ -7,6 +7,19 @@ TIMEOUT = 5
 
 
 def iniciar_cliente(host, porta):
+    """Inicia o cliente UDP para envio de mensagens e recepção de ecos.
+
+    O cliente conecta-se ao host e porta especificados via UDP, permitindo que o
+    usuário envie mensagens interativamente. Possui validação de tamanho de payload,
+    timeout configurado para respostas e tratamento de encerramento.
+
+    Args:
+        host (str): O endereço IP ou nome de host do servidor UDP.
+        porta (int): A porta de rede em que o servidor está escutando.
+
+    Raises:
+        OSError: Se houver falha crítica na criação ou comunicação do socket.
+    """
     cliente = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
     # Aguarda no máximo 5 segundos pela resposta
