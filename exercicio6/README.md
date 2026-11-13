@@ -1,6 +1,6 @@
 # Exercício 6: Estabelecimento e Encerramento de Conexão TCP
 
-Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
+Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha
 
 
 <img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/b5b22f0a-09b9-45f5-bdf5-728dd69c8781" />

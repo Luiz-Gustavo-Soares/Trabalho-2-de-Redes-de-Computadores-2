@@ -1,6 +1,6 @@
 # Exercício 7: Resolução de Nomes via DNS
 
-Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
+Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha
 
 
 <img width="1600" height="821" alt="image" src="https://github.com/user-attachments/assets/4379a515-8830-4563-bd3a-4974741088a7" />

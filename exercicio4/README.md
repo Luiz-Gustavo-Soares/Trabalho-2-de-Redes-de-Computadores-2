@@ -1,6 +1,6 @@
 # Exercicio 4
 
-Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
+Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha
 
 Python version 3.10.12
 

@@ -1,6 +1,6 @@
 # Exercício 8: Tráfego ICMP (ping)
 
-Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
+Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha
 
 
 <img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/040716de-7e09-49a3-acfa-f962b5860737" />

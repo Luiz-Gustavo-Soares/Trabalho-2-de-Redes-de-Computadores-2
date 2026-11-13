@@ -1,4 +1,4 @@
-# Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
+# Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha
 
 import socket
 from datetime import datetime

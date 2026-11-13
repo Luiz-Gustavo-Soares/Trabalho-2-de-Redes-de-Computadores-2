@@ -1,6 +1,6 @@
 # Exercício 9: Tráfego DHCP
 
-Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha, Tayna Lino de Carvalho
+Grupo: Luiz Gustavo Soares, Italo Felipe Santos Rocha
 
 <img width="1600" height="480" alt="image" src="https://github.com/user-attachments/assets/aeff02ba-0401-4fcb-b458-c88377980df1" />
 
